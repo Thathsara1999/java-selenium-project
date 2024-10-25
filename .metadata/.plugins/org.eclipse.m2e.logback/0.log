@@ -1,0 +1,437 @@
+2024-10-22 12:35:33,541 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-23 11:33:12,577 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-23 12:07:49,606 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.5/maven-archetype-quickstart-1.5.pom
+2024-10-23 12:07:49,839 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.5/maven-archetype-quickstart-1.5.pom
+2024-10-23 12:07:50,332 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/1.5/maven-archetype-bundles-1.5.pom
+2024-10-23 12:07:50,437 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/1.5/maven-archetype-bundles-1.5.pom
+2024-10-23 12:07:50,513 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/43/maven-parent-43.pom
+2024-10-23 12:07:50,811 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/43/maven-parent-43.pom
+2024-10-23 12:07:50,886 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/33/apache-33.pom
+2024-10-23 12:07:51,005 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/33/apache-33.pom
+2024-10-23 12:07:51,170 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.5/maven-archetype-quickstart-1.5.jar
+2024-10-23 12:07:51,919 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.5/maven-archetype-quickstart-1.5.jar
+2024-10-23 12:08:49,089 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [300])
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2024-10-23 12:08:49,090 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2024-10-23 12:08:49,091 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2024-10-23 12:08:49,092 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2024-10-23 12:08:49,094 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [10])
+2024-10-23 12:08:49,094 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\com.google.guava_33.3.0.jre.jar
+2024-10-23 12:08:49,094 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [522])
+2024-10-23 12:08:49,094 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\slf4j.api_2.0.16.jar
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\jakarta.annotation-api_1.3.5.jar
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [47])
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.apache.commons.cli_1.9.0.jar
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [50])
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2024-10-23 12:08:49,095 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse-java-2024-09-R-win32-x86_64\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-10-23 12:08:49,116 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\User\AppData\Local\Temp\m2e-archetypeGenerator17736377174482898618":
+2024-10-23 12:08:49,120 [Worker-16: Launching mavenrun-981a1b82-e302-4d2e-ae4c-99fbf7716f2f] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DjavaCompilerVersion=17 -DjunitVersion=5.11.0 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DgroupId=seleniumJavaAutomation -DartifactId=seleniumJavaAutomation -Dversion=0.0.1-SNAPSHOT -Dpackage=ppack -DoutputDirectory="E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest" -Dstyle.color=always -U archetype:generate
+2024-10-23 12:12:50,581 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\pom.xml
+2024-10-23 12:12:51,423 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.4.0/maven-clean-plugin-3.4.0.jar
+2024-10-23 12:12:51,760 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.4.0/maven-clean-plugin-3.4.0.jar
+2024-10-23 12:12:52,057 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.3.0/maven-surefire-plugin-3.3.0.jar
+2024-10-23 12:12:52,256 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.3.0/maven-surefire-plugin-3.3.0.jar
+2024-10-23 12:12:53,909 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: seleniumJavaAutomation:seleniumJavaAutomation:0.0.1-SNAPSHOT @ E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\pom.xml.
+2024-10-23 12:12:54,010 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.pom
+2024-10-23 12:12:54,030 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.pom
+2024-10-23 12:12:54,105 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.pom
+2024-10-23 12:12:54,139 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.pom
+2024-10-23 12:12:54,213 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.pom
+2024-10-23 12:12:54,240 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.pom
+2024-10-23 12:12:54,304 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar
+2024-10-23 12:12:54,397 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar
+2024-10-23 12:12:54,453 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar
+2024-10-23 12:12:54,494 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar
+2024-10-23 12:12:54,566 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar
+2024-10-23 12:12:54,836 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar
+2024-10-23 12:12:54,935 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.3.0/maven-surefire-plugin-3.3.0.pom
+2024-10-23 12:12:54,952 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.3.0/maven-surefire-plugin-3.3.0.pom
+2024-10-23 12:12:55,008 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.3.0/surefire-3.3.0.pom
+2024-10-23 12:12:55,131 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/3.3.0/surefire-3.3.0.pom
+2024-10-23 12:12:56,177 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /seleniumJavaAutomation/src/main/java
+2024-10-23 12:12:56,178 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /seleniumJavaAutomation/src/main/resources
+2024-10-23 12:12:56,186 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /seleniumJavaAutomation/src/test/java
+2024-10-23 12:12:56,187 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /seleniumJavaAutomation/src/test/resources
+2024-10-23 12:12:56,943 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0-sources.jar
+2024-10-23 12:12:56,954 [Worker-22: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-10-23 12:12:57,154 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0-sources.jar
+2024-10-23 12:12:57,161 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.11.0
+2024-10-23 12:12:57,328 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0-sources.jar
+2024-10-23 12:12:57,421 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0-sources.jar
+2024-10-23 12:12:57,428 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.11.0
+2024-10-23 12:12:57,580 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0-sources.jar
+2024-10-23 12:12:57,706 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0-sources.jar
+2024-10-23 12:12:57,711 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-params:5.11.0
+2024-10-23 12:12:58,567 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 12:12:58,573 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 12:14:55,166 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 12:14:55,173 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 12:20:46,249 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 12:20:46,253 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:21:02,522 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:21:02,579 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:23:20,861 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:23:20,863 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:25:06,727 [Worker-56: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-23 18:25:08,045 [Worker-66: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-23 18:26:06,503 [Worker-66: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: seleniumJavaAutomation:seleniumJavaAutomation:0.0.1-SNAPSHOT @ E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\pom.xml.
+2024-10-23 18:26:07,280 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:26:07,284 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:26:08,549 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:26:08,550 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:26:18,676 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:26:18,678 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:27:00,562 [Worker-68: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-23 18:27:01,802 [Worker-66: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @86:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-23 18:28:08,445 [Worker-67: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\pom.xml: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @84:5)  @ line 84, column 5
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\pom.xml: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @84:5)  @ line 84, column 5
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-23 18:28:08,549 [Worker-68: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @84:5) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</dependency>>\r\n\r\n  </... @84:5) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-10-23 18:31:38,261 [Worker-66: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: seleniumJavaAutomation:seleniumJavaAutomation:0.0.1-SNAPSHOT @ E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\pom.xml.
+2024-10-23 18:31:39,120 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/maven-metadata.xml
+2024-10-23 18:31:39,155 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/maven-metadata.xml
+2024-10-23 18:31:39,584 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.testng:testng:5.14.3
+[ERROR] 'dependencies.dependency.systemPath' for org.testng:guice:jar must specify an absolute path but is ${basedir}/lib-supplied/guice-2.0.jar @ 
+
+2024-10-23 18:31:39,584 [Worker-67: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.testng:testng:5.14.3
+[ERROR] 'dependencies.dependency.systemPath' for org.testng:guice:jar must specify an absolute path but is ${basedir}/lib-supplied/guice-2.0.jar @ 
+
+2024-10-23 18:31:39,594 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.testng:testng:5.14.4
+[ERROR] 'dependencies.dependency.systemPath' for org.testng:guice:jar must specify an absolute path but is /Users/cbeust/java/testng/target/checkout/lib-supplied/guice-2.0.jar @ 
+
+2024-10-23 18:31:39,594 [Worker-67: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.testng:testng:5.14.4
+[ERROR] 'dependencies.dependency.systemPath' for org.testng:guice:jar must specify an absolute path but is /Users/cbeust/java/testng/target/checkout/lib-supplied/guice-2.0.jar @ 
+
+2024-10-23 18:31:39,611 [Worker-67: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.testng:testng:5.14.5
+[ERROR] 'dependencies.dependency.systemPath' for org.testng:guice:jar must specify an absolute path but is /Users/cbeust/java/testng/target/checkout/lib-supplied/guice-2.0.jar @ 
+
+2024-10-23 18:31:39,611 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model for org.testng:testng:5.14.5
+[ERROR] 'dependencies.dependency.systemPath' for org.testng:guice:jar must specify an absolute path but is /Users/cbeust/java/testng/target/checkout/lib-supplied/guice-2.0.jar @ 
+
+2024-10-23 18:31:40,753 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.66/jcommander-1.66.pom
+2024-10-23 18:31:40,755 [Worker-67: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.beust:jcommander:jar:1.66 is missing, no dependency information available
+2024-10-23 18:31:40,763 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.beust:jcommander:jar:1.66 is missing, no dependency information available
+2024-10-23 18:31:41,743 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.pom
+2024-10-23 18:31:41,773 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.pom
+2024-10-23 18:31:41,833 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.20.0/log4j-2.20.0.pom
+2024-10-23 18:31:41,960 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.20.0/log4j-2.20.0.pom
+2024-10-23 18:31:42,029 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/7/logging-parent-7.pom
+2024-10-23 18:31:42,090 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/7/logging-parent-7.pom
+2024-10-23 18:31:42,158 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.20.0/log4j-bom-2.20.0.pom
+2024-10-23 18:31:42,228 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.20.0/log4j-bom-2.20.0.pom
+2024-10-23 18:31:42,285 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/3.0.14/groovy-bom-3.0.14.pom
+2024-10-23 18:31:42,312 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/3.0.14/groovy-bom-3.0.14.pom
+2024-10-23 18:31:42,366 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.14.1/jackson-bom-2.14.1.pom
+2024-10-23 18:31:42,423 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.14.1/jackson-bom-2.14.1.pom
+2024-10-23 18:31:42,482 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/platform/jakarta.jakartaee-bom/9.0.0/jakarta.jakartaee-bom-9.0.0.pom
+2024-10-23 18:31:42,509 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/platform/jakarta.jakartaee-bom/9.0.0/jakarta.jakartaee-bom-9.0.0.pom
+2024-10-23 18:31:42,562 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/platform/jakartaee-api-parent/9.0.0/jakartaee-api-parent-9.0.0.pom
+2024-10-23 18:31:42,594 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/platform/jakartaee-api-parent/9.0.0/jakartaee-api-parent-9.0.0.pom
+2024-10-23 18:31:42,649 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.50.v20221201/jetty-bom-9.4.50.v20221201.pom
+2024-10-23 18:31:42,679 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.50.v20221201/jetty-bom-9.4.50.v20221201.pom
+2024-10-23 18:31:42,737 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/5.12.2/kubernetes-client-bom-5.12.2.pom
+2024-10-23 18:31:42,762 [Worker-67: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/5.12.2/kubernetes-client-bom-5.12.2.pom
+2024-10-23 18:31:42,819 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.86.Final/netty-bom-4.1.86.Final.pom
+2024-10-23 18:31:42,852 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.86.Final/netty-bom-4.1.86.Final.pom
+2024-10-23 18:31:42,908 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.24/spring-framework-bom-5.3.24.pom
+2024-10-23 18:31:42,936 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.24/spring-framework-bom-5.3.24.pom
+2024-10-23 18:31:42,987 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.pom
+2024-10-23 18:31:43,007 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.pom
+2024-10-23 18:31:43,798 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar
+2024-10-23 18:31:44,463 [Worker-66: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar
+2024-10-23 18:31:44,509 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar
+2024-10-23 18:31:44,656 [BasicRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar
+2024-10-23 18:31:48,271 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:31:48,274 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:31:49,298 [Worker-67: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0-sources.jar
+2024-10-23 18:31:49,490 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:31:49,493 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:31:49,833 [Worker-67: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0-sources.jar
+2024-10-23 18:31:49,836 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.20.0
+2024-10-23 18:31:50,009 [Worker-67: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0-sources.jar
+2024-10-23 18:31:50,168 [Worker-67: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0-sources.jar
+2024-10-23 18:31:50,172 [Worker-67: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.20.0
+2024-10-23 18:35:26,961 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:35:26,963 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:35:41,176 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:35:41,178 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:35:50,500 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:35:50,502 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:36:43,712 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:36:43,713 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 18:59:27,018 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 18:59:27,020 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:01:51,316 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:01:51,318 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:04:30,580 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:04:30,582 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:05:43,822 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:05:43,823 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:52:59,901 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:52:59,905 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:54:10,630 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:54:10,631 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:56:48,490 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:56:48,493 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 19:59:28,651 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 19:59:28,653 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 20:02:50,885 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 20:02:50,886 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 20:09:51,124 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 20:09:51,126 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 20:12:04,351 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 20:12:04,354 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 21:19:00,422 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 21:19:00,425 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
+2024-10-23 21:31:25,059 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\main\resources
+2024-10-23 21:31:25,060 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\Automation Testing\Java\QAFox\QADay1\WebsiteTest\seleniumJavaAutomation\src\test\resources
